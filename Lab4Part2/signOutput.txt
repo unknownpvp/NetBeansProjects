@@ -1,0 +1,32 @@
+You entered 5/2/1996
+This date's astrological sign is Taurus
+You entered 12/25/2010
+This date's astrological sign is Capricorn
+You entered 1/18/2012
+This date's astrological sign is Capricorn
+You entered 7/4/2013
+This date's astrological sign is Cancer
+You entered 6/4/2015
+This date's astrological sign is Gemini
+You entered 9/8/2016
+This date's astrological sign is Virgo
+You entered 10/15/2015
+This date's astrological sign is Libra
+You entered 5/5/2012
+This date's astrological sign is Taurus
+You entered 0/21/2017
+This date's astrological sign is Unclear
+You entered 7/4/2016
+This date's astrological sign is Cancer
+You entered 3/31/2016
+This date's astrological sign is Unclear
+You entered 0/14/1999
+This date's astrological sign is Unclear
+You entered 12/5/2016
+This date's astrological sign is Sagittarius
+You entered 0/41/1887
+This date's astrological sign is Unclear
+You entered 10/15/2017
+This date's astrological sign is Libra
+You entered 5/19/2017
+This date's astrological sign is Taurus
